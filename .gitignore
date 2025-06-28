@@ -6,3 +6,4 @@
 *.fatbin
 
 .DS_Store
+.vscode/
